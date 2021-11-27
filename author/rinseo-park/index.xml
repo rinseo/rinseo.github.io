@@ -5,12 +5,20 @@
     <link>https://rinseo.github.io/author/rinseo-park/</link>
       <atom:link href="https://rinseo.github.io/author/rinseo-park/index.xml" rel="self" type="application/rss+xml" />
     <description>Rinseo Park</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Rinseo Park. All rights reserved.</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Rinseo Park. All rights reserved.</copyright><lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rinseo.github.io/author/rinseo-park/avatar_hue158b008dd63ed893734b9ef74be06e6_189399_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Rinseo Park</title>
       <link>https://rinseo.github.io/author/rinseo-park/</link>
     </image>
+    
+    <item>
+      <title>Trends in survey response rates during election periods in South Korea: Two-phases of survey response model and survey modes</title>
+      <link>https://rinseo.github.io/publication/jcr/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rinseo.github.io/publication/jcr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
@@ -87,6 +95,14 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Early voting and the citizens’ change in vote choice in Korean legislative elections: An ecological inference (EI) approach</title>
+      <link>https://rinseo.github.io/publication/kpsr/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://rinseo.github.io/publication/kpsr/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -170,20 +186,9 @@ date: 2019-09-01
     <item>
       <title>An example conference paper</title>
       <link>https://rinseo.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rinseo.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
