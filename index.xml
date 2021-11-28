@@ -128,14 +128,6 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Talking alternatively what would happen versus talking straightly what happened: Tracking Congressional speech during the COVID-19 pandemic</title>
-      <link>https://rinseo.github.io/publication/jcr-%EB%B3%B5%EC%82%AC%EB%B3%B8/</link>
-      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://rinseo.github.io/publication/jcr-%EB%B3%B5%EC%82%AC%EB%B3%B8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Trends in survey response rates during election periods in South Korea: Two-phases of survey response model and survey modes</title>
       <link>https://rinseo.github.io/publication/jcr/</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
@@ -307,7 +299,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-573496182&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-259178643&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -317,7 +309,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-573496182&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-259178643&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
