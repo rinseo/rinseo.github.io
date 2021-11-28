@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>public health | Rinseo Park</title>
+    <link>https://rinseo.github.io/tag/public-health/</link>
+      <atom:link href="https://rinseo.github.io/tag/public-health/index.xml" rel="self" type="application/rss+xml" />
+    <description>public health</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2021 Rinseo Park. All rights reserved.</copyright><lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rinseo.github.io/media/icon_hu77aeed2819259489d47b9bffffe5ae63_4044_512x512_fill_lanczos_center_3.png</url>
+      <title>public health</title>
+      <link>https://rinseo.github.io/tag/public-health/</link>
+    </image>
+    
+    <item>
+      <title>A measurement error approach for satellite-based air quality modeling: Using GEMS-retrieved nitrogen dioxide (NO2) products</title>
+      <link>https://rinseo.github.io/publication/2020_10/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://rinseo.github.io/publication/2020_10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>We don’t need THAT vaccine: An agent-based modeling of vaccine uptake and resistance dynamics with two vaccines</title>
+      <link>https://rinseo.github.io/publication/2020_08/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rinseo.github.io/publication/2020_08/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
