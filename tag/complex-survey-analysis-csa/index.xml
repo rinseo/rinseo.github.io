@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>complex survey analysis (CSA) | Rinseo Park</title>
+    <link>https://rinseo.github.io/tag/complex-survey-analysis-csa/</link>
+      <atom:link href="https://rinseo.github.io/tag/complex-survey-analysis-csa/index.xml" rel="self" type="application/rss+xml" />
+    <description>complex survey analysis (CSA)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2021 Rinseo Park. All rights reserved.</copyright><lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rinseo.github.io/media/icon_hu77aeed2819259489d47b9bffffe5ae63_4044_512x512_fill_lanczos_center_3.png</url>
+      <title>complex survey analysis (CSA)</title>
+      <link>https://rinseo.github.io/tag/complex-survey-analysis-csa/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the effectiveness of parental mediation on children’s media use: Propensity score matching with complex survey data</title>
+      <link>https://rinseo.github.io/publication/2020_11/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rinseo.github.io/publication/2020_11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multi-level modeling | Rinseo Park</title>
+    <link>https://rinseo.github.io/tag/multi-level-modeling/</link>
+      <atom:link href="https://rinseo.github.io/tag/multi-level-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>multi-level modeling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2021 Rinseo Park. All rights reserved.</copyright><lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rinseo.github.io/media/icon_hu77aeed2819259489d47b9bffffe5ae63_4044_512x512_fill_lanczos_center_3.png</url>
+      <title>multi-level modeling</title>
+      <link>https://rinseo.github.io/tag/multi-level-modeling/</link>
+    </image>
+    
+    <item>
+      <title>NAVER Finance</title>
+      <link>https://rinseo.github.io/project/competition_aug2019/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rinseo.github.io/project/competition_aug2019/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Excellence Prize, NAVER Data Science Competition, Aug 2019&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Predicted suspension of dividend payments with domestic stock price data over the past 10 years, using a Cox proportional hazard (PH) model with time-varying covariates&lt;/li&gt;
+&lt;li&gt;Received an internship offer from NAVER as the prize winner&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
