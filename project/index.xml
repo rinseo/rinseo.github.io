@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Rinseo Park</title>
+    <link>https://rinseo.github.io/project/</link>
+      <atom:link href="https://rinseo.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2021 Rinseo Park. All rights reserved.</copyright><lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rinseo.github.io/media/icon_hu77aeed2819259489d47b9bffffe5ae63_4044_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://rinseo.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Complex Survey Data Analysis</title>
+      <link>https://rinseo.github.io/project/book_csa/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rinseo.github.io/project/book_csa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Missing Data Analysis</title>
+      <link>https://rinseo.github.io/project/book_missing/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rinseo.github.io/project/book_missing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propensity Score Analysis</title>
+      <link>https://rinseo.github.io/project/book_psa/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://rinseo.github.io/project/book_psa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAVER Data Lab</title>
+      <link>https://rinseo.github.io/project/internship_feb2020/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://rinseo.github.io/project/internship_feb2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Research Intern, NAVER Corp., Seongnam, South Korea, Jan 2020 - Feb 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Received an internship offer from NAVER as the prize winner of NAVER DSC 2019&lt;/li&gt;
+&lt;li&gt;Proposed a novel approach to visualize the evolution of buzzwords at Data Lab&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NAVER Finance</title>
+      <link>https://rinseo.github.io/project/competition_aug2019/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rinseo.github.io/project/competition_aug2019/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Excellence Prize, NAVER Data Science Competition, Aug 2019&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Predicted suspension of dividend payments with domestic stock price data over the past 10 years, using a Cox proportional hazard (PH) model with time-varying covariates&lt;/li&gt;
+&lt;li&gt;Received an internship offer from NAVER as the prize winner&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Embrain Panel Data</title>
+      <link>https://rinseo.github.io/project/competition_may2019/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://rinseo.github.io/project/competition_may2019/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Excellence Prize, Embrain Panel Big Data Competition, May 2019&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Performed competition analysis on customer behavior data obtained from Macromill Embrain Panel&lt;/li&gt;
+&lt;li&gt;Used a nested logistic regression model to make comparisons within and out of game genres&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
