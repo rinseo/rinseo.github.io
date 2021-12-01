@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://rinseo.github.io/sitemap.xml
