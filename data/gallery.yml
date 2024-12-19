@@ -1,0 +1,31 @@
+####################### Gallery #########################
+style: "style1 medium lightbox onload-fade-in"
+title: "Gallery"
+id: "gallery"
+content: |
+  These are some of the things that I like! Outside of the lab, I love books (<em>mostly</em> Korean short novels/essays), art (<em>mostly</em> abstract art paintings), music (<em>mostly</em> jazz, contemporary, and indie), and running (<em>mostly</em> easy 5K runs). Please feel free to connect with me! <ul class="icons"><li><a class="icon brands style2 fa-instagram" target="_blank" href="https://www.instagram.com/rinsuuh_/"></a></li><li><a class="icon brands style2 fa-goodreads" target="_blank" href="https://www.goodreads.com/user/show/172387966-rinsuuh"></a></li></ul>
+pictures:
+
+  - title: "Monthly Favorites"
+    content: "Autumn in NYC! If you realize that all things change, there is nothing you cannot love."
+    image: "https://www.youtube.com/watch?v=KBWiq88UuPk"
+    thumb: "images/gallery/thumbs/nyc.jpeg"
+    button: "See More"
+    
+  - title: "Data Music"
+    content: "I enjoy making data-driven music. Click below to see our live performance on dyadic conversations!"
+    image: "https://ccrma.stanford.edu/~cc/153d/vid/TheConversation-Concert-3-Feb-2024.webm"
+    thumb: "images/gallery/thumbs/concert.jpeg"
+    button:  "See More"
+
+  - title: "Life in SF"
+    content: "I love the warmth and light in the Bay area! Make sure to find Hwanki Kim's artwork at SFMOMA."
+    image: "https://www.sfmoma.org/artwork/79.127/"
+    thumb: "images/gallery/thumbs/sf.jpeg"
+    button: "See More"
+
+  - title: "Life in Berlin"
+    content: "I spent my summer of 2024 in Berlin, Germany. Click below to read my experience report!"
+    image: "https://tec.fsi.stanford.edu/content/rinseo-park-modeling-individuals-developmental-trajectories-across-multiple-life"
+    thumb: "images/gallery/thumbs/richter.jpeg"
+    button: "See More"

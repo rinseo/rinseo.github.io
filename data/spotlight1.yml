@@ -1,0 +1,7 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onload-image-fade-in"
+title : "Media Selection and Switching"
+id: "spotlight1"
+content: |
+  During the last few years, the <a target="_blank" href="https://www.nature.com/articles/d41586-020-00032-5">Human Screenome Project</a> has collected a large repository of screenshot sequences – detailed records obtained every 5 seconds for months of what appeared on hundreds of study participants’ smartphone screens. My research seeks to understand how media selection and switching behaviors on smartphones are driven by different motivations (e.g., information seeking, pastime), and by various stimuli (e.g., news, social media) in the everyday media environment <a href="#ref01">[1]</a>.
+image: "images/screen.png"

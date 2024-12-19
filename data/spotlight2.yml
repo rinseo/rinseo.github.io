@@ -1,0 +1,7 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-middle onload-image-fade-in"
+title : "Cognitive Mechanisms of Multitasking"
+id: "spotlight2"
+content: |
+  Individuals have always multitasked and switched tasks in everyday life. My goal is to identify the psychological mechanisms that support this behavior in complex media environments. I explore how adaptive processes manifest in lab-based cognitive performance paradigms in the <a target="_blank" href="https://www.fernuni-hagen.de/psychologie-lernen-motivation/forschung/index.shtml">Learning Motivation Emotion Lab at the FernUniversität in Hagen, Germany</a> [<a href="#ref02">2</a>]. To address this goal, I am developing new ways to analyze behavioral trajectories, including those captured in the Human Screenome Project [<a href="#ref01">1</a>,<a href="#ref03">3</a>,<a href="#ref04">4</a>].
+image: "images/multitask.jpg"

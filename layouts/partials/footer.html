@@ -1,0 +1,11 @@
+<!-- Footer -->
+<footer class="wrapper style1 align-center">
+    <div class="inner">
+        <p>© Dec 2024 Rinseo Park. All rights reserved.</p>
+</div>
+</footer>
+
+<!-- FontAwesome JS -->
+{{ range .Site.Params.asset.fontawesome_js -}}
+    <script type="text/javascript" src="{{ . | absURL }}"></script>
+{{- end }}

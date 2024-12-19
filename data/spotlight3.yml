@@ -1,0 +1,7 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onload-image-fade-in"
+title : "Designing Timely Interventions"
+id: "spotlight3"
+content: |
+  Finally, I seek to identify and locate real-time interventions that are personalized and adaptive to each individual’s digital journey. Causal inference methods provide the possibility to identify individuals’ reactions to specific events [<a href="#ref07">7</a>,<a href="#ref08">8</a>]. In a demonstration of how “synthetic controls” can be used to identify and describe how individuals’ well-being trajectories change over time and in relation to life transitions, I am laying the foundation for why and how timely interventions should be implemented [<a href="#ref09">9</a>,<a href="#ref10">10</a>].
+image: "images/smartwatch.png"
