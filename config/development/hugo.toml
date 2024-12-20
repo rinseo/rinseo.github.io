@@ -16,6 +16,7 @@ relativeURLs = "true"
 #baseURL = "/"
 publishDir = "public"
 themesDir = "themes"
+theme = "hugo-story"
 
 # Remote
 baseURL = "https://rinseo.github.io/"
