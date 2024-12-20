@@ -17,7 +17,7 @@ publishDir = "public"
 themesDir = "themes"
 
 # Remote
-baseURL = "https://rinseo.github.io"
+baseURL = "https://rinseo.github.io/"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 
