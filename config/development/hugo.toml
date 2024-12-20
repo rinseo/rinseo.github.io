@@ -13,7 +13,7 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-b#aseURL = "/"
+#baseURL = "/"
 publishDir = "public"
 themesDir = "themes"
 
