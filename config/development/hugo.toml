@@ -13,12 +13,12 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+b#aseURL = "/"
 publishDir = "public"
 themesDir = "themes"
 
 # Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
+baseURL = "https://rinseo.github.io"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 ## -----------------------------------------------
