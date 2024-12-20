@@ -45,24 +45,28 @@ jobs:
         with:
           #submodules: recursive
           fetch-depth: 0
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: List directory contents
         run: |
           echo "Current directory:"
           pwd
           echo "Listing contents of the current directory:"
           ls -R
+      - name: Download Hugo theme (hugo-story)
+        run: |
+          git clone --depth 1 https://github.com/caressofsteel/hugo-story.git themes/hugo-story
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Install Node.js dependencies
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
           TZ: America/Los_Angeles
         run: |
-          cd ../ #to the root directory
+          #cd ../ #to the root directory
+          echo "Current directory: $(pwd)" #ensure that we're in the correct directory
           hugo --cleanDestinationDir \
             --gc \
             --minify \
