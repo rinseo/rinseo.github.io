@@ -50,6 +50,12 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: List directory contents
+        run: |
+        echo "Current directory:"
+        pwd
+        echo "Listing contents of the current directory:"
+        ls -R
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
