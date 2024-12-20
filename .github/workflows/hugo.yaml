@@ -62,7 +62,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           TZ: America/Los_Angeles
         run: |
-          cd ./ #to the root directory
+          cd ../ #to the root directory
           hugo --cleanDestinationDir \
             --gc \
             --minify \
