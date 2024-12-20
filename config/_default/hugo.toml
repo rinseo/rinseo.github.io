@@ -14,6 +14,7 @@ relativeURLs = "true"
 # Local
 baseURL = "/"
 publishDir = "public"
+themesDir = "themes"
 
 # Remote
 #baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"

@@ -9,16 +9,16 @@ copyright = "{year}"
 ## Publish
 ## -----------------------------------------------
 
-relativeURLs = "false"#"true"
+relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-#baseURL = "/"
+baseURL = "/"
 publishDir = "public"
 themesDir = "themes"
 
 # Remote
-baseURL = "https://rinseo.github.io"
+#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 ## -----------------------------------------------
