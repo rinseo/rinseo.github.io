@@ -43,7 +43,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          #submodules: recursive
+          submodules: recursive
           fetch-depth: 0
       - name: List directory contents
         run: |
@@ -51,9 +51,9 @@ jobs:
           pwd
           echo "Listing contents of the current directory:"
           ls -R
-      - name: Download Hugo theme (hugo-story)
-        run: |
-          git clone --depth 1 https://github.com/caressofsteel/hugo-story.git themes/hugo-story
+      #- name: Download Hugo theme (hugo-story)
+      #  run: |
+      #    git clone --depth 1 https://github.com/caressofsteel/hugo-story.git themes/hugo-story
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
