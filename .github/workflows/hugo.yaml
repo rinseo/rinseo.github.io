@@ -8,10 +8,7 @@ on:
       - main
 
   # Allows you to run this workflow manually from the Actions tab
-  #workflow_dispatch:
-
-  # Run this workflow automatically 
-  pull_request:
+  workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
