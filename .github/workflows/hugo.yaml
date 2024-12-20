@@ -53,7 +53,7 @@ jobs:
           ls -R
       - name: Download Hugo theme (hugo-story)
         run: |
-          git clone --depth 1 - https://github.com/caressofsteel/hugo-story.git themes/hugo-story
+          git clone --depth 1 https://github.com/caressofsteel/hugo-story.git themes/hugo-story
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
