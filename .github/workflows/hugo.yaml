@@ -57,7 +57,7 @@ jobs:
           TZ: America/Los_Angeles
         run: |
           cd ./ #to the root directory
-          hugo \
+          hugo --cleanDestinationDir \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
