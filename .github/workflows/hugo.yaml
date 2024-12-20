@@ -48,12 +48,12 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
-      - name: List directory contents
-        run: |
-          echo "Current directory:"
-          pwd
-          echo "Listing contents of the current directory:"
-          ls -R
+      #- name: List directory contents
+      #  run: |
+      #    echo "Current directory:"
+      #    pwd
+      #    echo "Listing contents of the current directory:"
+      #    ls -R
       #- name: Download Hugo theme (hugo-story)
       #  run: |
       #    git clone --depth 1 https://github.com/caressofsteel/hugo-story.git themes/hugo-story
@@ -69,7 +69,7 @@ jobs:
           TZ: America/Los_Angeles
         run: |
           #cd ../ #to the root directory
-          echo "Current directory: $(pwd)" #ensure that we're in the correct directory
+          #echo "Current directory: $(pwd)" #ensure that we're in the correct directory
           hugo --cleanDestinationDir \
             --gc \
             --minify \
